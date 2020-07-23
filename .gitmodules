@@ -1,0 +1,6 @@
+[submodule "multiagent"]
+	path = multiagent
+	url = https://github.com/openai/multi-agent-emergence-environments
+[submodule "mujocoworldgen"]
+	path = mujocoworldgen
+	url = https://github.com/openai/mujoco-worldgen
